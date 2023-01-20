@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\bin\Debug\Wang_HelloWorld.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\bin\Debug\Wang_HelloWorld.exe
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\bin\Debug\Wang_HelloWorld.pdb
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\obj\Debug\Wang_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\obj\Debug\Wang_HelloWorld.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\obj\Debug\Wang_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\obj\Debug\Wang_HelloWorld.exe
+C:\Users\Wiz\Desktop\IGME 201\Wang_HelloWorld\obj\Debug\Wang_HelloWorld.pdb
