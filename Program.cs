@@ -1,16 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Wang_HelloWorld
 {
-    internal class Program
+    static class Program
     {
+        //The Main method is the entry point of the program
         static void Main(string[] args)
         {
-            Console.WriteLine("Jada Pinkett Smith!");
+            //Write "Hello World!" to the console
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("This is my first C# console application!");
         }
     }
 }
